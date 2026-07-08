@@ -13,7 +13,7 @@ High speed & lightweight Cross Site Scripting (XSS) vulnerabilities scanner tool
 ![License](https://img.shields.io/badge/AGPL-v3-000000?style=for-the-badge&logo=gnu&logoColor=A42E2B&labelColor=000000&color=brightgreen)
 ![Golang](https://img.shields.io/badge/Golang-1.21+-000000?style=for-the-badge&logo=go&logoColor=00bef9)
 
-### Installation & Usage
+### INstallation & Usages
 
 ```bash
 git clone https://github.com/MatrixTM26/AssaultXSS.git
